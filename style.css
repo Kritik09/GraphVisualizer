@@ -9,6 +9,9 @@ header{
     color: white;
     margin-bottom: 1vmax;
 }
+a{
+    text-decoration: none;
+}
 .main__cont{
     display: flex;
     justify-content: space-evenly;

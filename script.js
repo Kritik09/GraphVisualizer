@@ -48,7 +48,7 @@ Array.from(blocks).forEach((element,index)=>{
         draw()
     })
 })
-
+z
 function draw(){
     Array.from(blocks).forEach(e=>{
         e.classList.remove('source')
